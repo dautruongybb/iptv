@@ -1,0 +1,113 @@
+{
+name: "❤Xem trực tiếp các sự kiện thể thao đỉnh cao!❤",
+author: "Trung Kiên - Trải nghiệm Đẳng cấp Truyền hình - Kodi Việt Nam ",
+image: "https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg",
+info: "Kodi Việt Nam - Trải nghiệm Đẳng cấp Truyền hình",
+url: "http://gg.gg/xemthethaodinhcao",
+groups: [
+{
+name: "SPORTS PORTUGUESE",
+image: "https://i.imgur.com/E80kJYb.png",
+stations: [
+{
+name: "PORTUGUESE SPORT TV 1",
+url: "https://v3.sportzonline.to/channels/pt/sporttv1.php",
+image: "https://i.imgur.com/1kOfyqY.jpg"
+},
+{
+name: "PORTUGUESE SPORT TV 2",
+url: "https://v3.sportzonline.to/channels/pt/sporttv2.php",
+image: "https://i.imgur.com/I46aBfF.jpeg"
+},
+{
+name: "PORTUGUESE SPORT TV 3",
+url: "https://v3.sportzonline.to/channels/pt/sporttv3.php",
+image: "https://i.imgur.com/Bb6C3UR.jpeg"
+},
+{
+name: "PORTUGUESE SPORT TV 4",
+url: "https://v3.sportzonline.to/channels/pt/sporttv4.php",
+image: "https://i.imgur.com/prtNYGA.jpeg"
+},
+{
+name: "PORTUGUESE SPORT TV 5",
+url: "https://v3.sportzonline.to/channels/pt/sporttv5.php",
+image: "https://i.imgur.com/xNSPbwi.jpeg"
+}
+]
+},
+{
+name: "THỂ THAO HD",
+image: "https://i.imgur.com/VYr6Q3S.png",
+stations: [
+{
+name: "HD1 ENGLISH",
+url: "https://v3.sportzonline.to/channels/hd/hd1.php",
+image: "https://imgur.com/wTsCLk9.png"
+},
+{
+name: "HD2 ENGLISH",
+url: "https://v3.sportzonline.to/channels/hd/hd2.php",
+image: "https://imgur.com/BaDuTkR.png"
+},
+{
+name: "HD3 GERMAN",
+url: "https://v3.sportzonline.to/channels/hd/hd3.php",
+image: "https://imgur.com/VF3DleM.png"
+},
+{
+name: "HD4 GERMAN & ARABIC",
+url: "https://v3.sportzonline.to/channels/hd/hd4.php",
+image: "https://imgur.com/rp8GUm4.png"
+},
+{
+name: "HD5 ENGLISH",
+url: "https://v3.sportzonline.to/channels/hd/hd5.php",
+image: "https://imgur.com/YPHSf4l.png"
+},
+{
+name: "HD6 SPANISH",
+url: "https://v3.sportzonline.to/channels/hd/hd6.php",
+image: "https://imgur.com/nUzRNkd.png"
+},
+{
+name: "HD7 ITALIAN",
+url: "https://v3.sportzonline.to/channels/hd/hd7.php",
+image: "https://imgur.com/AZXRaoZ.png"
+},
+{
+name: "HD8 TURKISH & ENGLISH & GREEK/RUSSIAN",
+url: "https://v3.sportzonline.to/channels/hd/hd8.php",
+image: "https://imgur.com/tnqmKeq.png"
+}
+]
+},
+{
+name: "BRAZILIAN SPORT",
+image: "https://i.imgur.com/jFtvBfy.png",
+stations: [
+{
+name: "BR1 BRAZILIAN ",
+url: "https://v3.sportzonline.to/channels/bra/br1.php",
+image: "https://i.imgur.com/WaXUIM2.png"
+},
+{
+name: "BR2 BRAZILIAN ",
+url: "https://v3.sportzonline.to/channels/bra/br2.php",
+image: "https://i.imgur.com/2Cly67O.png"
+},
+{
+name: "BR3 BRAZILIAN ",
+url: "https://v3.sportzonline.to/channels/bra/br3.php",
+image: "https://i.imgur.com/5ftcnfL.png"
+},
+{
+name: "BR3 BRAZILIAN ",
+url: "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200",
+image: "https://il.mahidol.ac.th/upload/img/2020-08-16-090017.jpg"
+}
+}
+]
+}
+]
+}
